@@ -1,6 +1,6 @@
 # Wall-E APP
 
-[![logo.png](https://i.postimg.cc/Y05kJGhM/logo.png)](https://postimg.cc/m1y09rY5)
+[![logo-1.png](https://i.postimg.cc/yx7g58rJ/logo-1.png)](https://postimg.cc/0MHyKPvx)
 
 ## Descripción
 
